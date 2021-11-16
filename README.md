@@ -1,3 +1,3 @@
-# pac-man
+# Pac-Man
 
-Creacion de un Pac-man en Javascript
+Creación de un Pac-man en Javascript
